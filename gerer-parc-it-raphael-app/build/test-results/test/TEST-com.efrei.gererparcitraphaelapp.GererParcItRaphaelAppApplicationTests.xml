@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.efrei.gererparcitraphaelapp.GererParcItRaphaelAppApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-27T15:27:33" hostname="DEXIAS" time="0.633">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.efrei.gererparcitraphaelapp.GererParcItRaphaelAppApplicationTests" time="0.633"/>
+  <system-out><![CDATA[16:27:32.115 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.efrei.gererparcitraphaelapp.GererParcItRaphaelAppApplicationTests]: GererParcItRaphaelAppApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+16:27:32.211 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.efrei.gererparcitraphaelapp.GererParcItRaphaelAppApplication for test class com.efrei.gererparcitraphaelapp.GererParcItRaphaelAppApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.4)
+
+2024-03-27T16:27:32.630+01:00  INFO 27884 --- [gerer-parc-it-raphael-app] [    Test worker] .g.GererParcItRaphaelAppApplicationTests : Starting GererParcItRaphaelAppApplicationTests using Java 17.0.10 with PID 27884 (started by rapha in C:\Users\rapha\Documents\gerer-parc-it-raphael-app)
+2024-03-27T16:27:32.632+01:00  INFO 27884 --- [gerer-parc-it-raphael-app] [    Test worker] .g.GererParcItRaphaelAppApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-03-27T16:27:33.853+01:00  INFO 27884 --- [gerer-parc-it-raphael-app] [    Test worker] .g.GererParcItRaphaelAppApplicationTests : Started GererParcItRaphaelAppApplicationTests in 1.433 seconds (process running for 2.618)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
